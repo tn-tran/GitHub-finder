@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 function About() {
   return (
     <>
-      <h1 className='text-6xl mb-4'>Github Finder</h1>
+      <h1 className="text-6xl mb-4">Github Finder</h1>
     </>
-  )
+  );
 }
 
-export default About
+export default About;
