@@ -1,4 +1,4 @@
-# Github Finder
+# GitHub Finder
 
 This website app allows you to search for users on [Github](https://github.com/) and details about their profiles.
 
